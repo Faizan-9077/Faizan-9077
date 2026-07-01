@@ -13,6 +13,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Faizan-9077&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Faizan-9077&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
