@@ -1,16 +1,112 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>- 💻 Building scalable web applications with the MERN Stack.<br>- 🤖 Exploring AI, LLMs, and intelligent software systems.<br>- 🚀 Turning ideas into impactful real-world products.<br>- 🧩 Writing clean, maintainable, and efficient code.<br>- 🌱 Constantly learning and experimenting with new technologies.
+# Hi, I'm Faizan Khan 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineering+Intern+%40+Accenture;Full-Stack+Developer+(MERN);AI%2FLLM+Integration+Enthusiast;Open+to+SDE+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/faizankh07/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/faizan9077/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@faizanTech314) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizankh314@gmail.com) 
+<p align="center">
+  <a href="mailto:faizankh314@gmail.com"><img src="https://img.shields.io/badge/Email-faizankh314%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Faizan-9077"><img src="https://img.shields.io/badge/GitHub-Faizan--9077-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/faizan-khan-043807294/"><img src="https://img.shields.io/badge/LinkedIn-Faizan%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Faizan-9077&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Faizan-9077&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Faizan-9077&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Faizan-9077&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
 
+## 💼 Professional Summary
+Software Engineering Intern with hands-on experience building **scalable backend systems**, **AI-powered workflows**, and **full-stack MERN applications**.  
+Currently working on fraud detection and compliance systems using **Python, PostgreSQL, and LLM integrations**.  
+Strong foundation in **DSA, OOP, system design basics, and API engineering**.
+
+---
+
+## 🚀 Experience
+
+### **Accenture** — *Associate Software Engineering Intern*  
+**May 2026 – Present | Gurugram, India**
+- Developing an AI-powered fraud detection and compliance reporting platform using **Python, PostgreSQL, and LLM technologies**.
+- Generated a synthetic banking dataset with **500K+ transactions** and **50K customer records** for financial analytics.
+- Implemented **8 fraud detection patterns** (account takeover, round-tripping, cross-border anomalies, etc.).
+- Integrated **LLaMA 3 via Ollama + Groq APIs** for natural language investigation workflows.
+
+### **FOSSEE, IIT Bombay** — *Software Engineering Intern (CAD Automation)*  
+**Dec 2025 – May 2026 | Remote**
+- Built Python components for **parametric 3D CAD model generation** in an open-source engineering platform.
+- Developed **modular, reusable OOP-based components** with improved maintainability.
+- Improved geometry generation reliability by resolving core model-building issues.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+`Java` `JavaScript (ES6+)` `Python` `C++` `SQL`
+
+### **Frontend**
+`React.js` `HTML5` `CSS3` `Tailwind CSS`
+
+### **Backend & APIs**
+`Node.js` `Express.js` `REST APIs` `JWT Authentication`
+
+### **Databases**
+`PostgreSQL` `MongoDB` `MySQL`
+
+### **Tools & Platforms**
+`Git` `GitHub` `Postman` `Docker (Basic)` `VS Code` `Render` `Vercel` `Ollama` `Groq API`
+
+### **Core Concepts**
+`OOP` `DSA` `SDLC` `Agile/Scrum` `Database Design` `LLM Integration`
+
+---
+
+## 📌 Featured Projects
+
+### **fraud-detection-sql** — AI-Assisted Fraud Detection & Compliance Analytics  
+**Tech:** Python, SQL, PostgreSQL, LLM Integration  
+- Built fraud analytics workflows on large synthetic banking datasets to detect suspicious transaction behavior.  
+- Implemented rule-based detection patterns and SQL-driven investigative queries for compliance insights.  
+- Integrated LLM-assisted analysis workflows to support natural-language fraud investigation and reporting.  
+🔗 **Repository:** https://github.com/Faizan-9077/fraud-detection-sql
+
+### **ReviseHub** — Full-Stack Study Management Platform  
+**Tech:** MERN Stack, JWT, Cloudinary  
+- Built an end-to-end study management platform with secure authentication and structured content workflows.  
+- Designed robust REST APIs with validation and error handling.  
+- Optimized database schema and queries for better performance.  
+🔗 **Repository:** *https://github.com/Faizan-9077/reviseHub*  
+
+
+---
+
+## 🏆 Certifications
+- **Agentic AI Fluency** — Udacity  
+- **Generative AI Fluency** — Udacity  
+- **SQL (Basic)** — HackerRank
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.shion.dev/api?username=Faizan-9077&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Faizan-9077&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170em" src="https://streak-stats.demolab.com?user=Faizan-9077&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Open To
+- Software Development Engineer (SDE) Internships
+- Full-Stack Developer Internships
+- Entry-level Software Engineering Roles
+- AI + Web Integration Projects
+
+---
+
+### ⭐ If you like my work, consider following me and checking out my repositories!
