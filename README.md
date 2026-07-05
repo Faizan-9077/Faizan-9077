@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Intern @ Accenture | Full-Stack Developer | AI + Backend Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=780&lines=Building+scalable+backend+systems;Full-Stack+MERN+Developer;AI-powered+workflow+builder;Always+learning+and+shipping+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=780&lines=Building+scalable+backend+systems;Full-Stack+MERN+Developer;AI-powered+workflow+builder;Always+learning+and+shipping" alt="Typing SVG" />
 </p>
 
 ## 🌐 Connect With Me
