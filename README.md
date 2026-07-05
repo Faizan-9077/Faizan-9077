@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:faizankh314@gmail.com"><img src="https://img.shields.io/badge/Email-faizankh314%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Faizan-9077"><img src="https://img.shields.io/badge/GitHub-Faizan--9077-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/faizan9077//"><img src="https://img.shields.io/badge/LinkedIn-Faizan%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/faizan9077/"><img src="https://img.shields.io/badge/LinkedIn-Faizan%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
