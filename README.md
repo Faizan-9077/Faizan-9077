@@ -1,13 +1,22 @@
-# Hi, I'm Faizan Khan 👋
+<h1 align="center">Hi 👋, I'm Faizan Khan</h1>
+<h3 align="center">Software Engineering Intern @ Accenture | Full-Stack Developer | AI + Backend Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineering+Intern+%40+Accenture;Full-Stack+Developer;Backend+%7C+MERN+%7C+AI+Workflows;Building+Scalable+and+Impactful+Solutions" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=780&lines=Building+scalable+backend+systems;Full-Stack+MERN+Developer;AI-powered+workflow+builder;Always+learning+and+shipping+🚀" alt="Typing SVG" />
 </p>
 
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="mailto:faizankh314@gmail.com"><img src="https://img.shields.io/badge/Email-faizankh314%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/faizan9077/"><img src="https://img.shields.io/badge/LinkedIn-Faizan%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/faizankh07/"><img src="https://img.shields.io/badge/LeetCode-faizankh07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:faizankh314@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B23121" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/faizan9077/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084B99" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/faizankh07/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=C97A00" alt="LeetCode" />
+  </a>
 </p>
 
 <p align="center">
